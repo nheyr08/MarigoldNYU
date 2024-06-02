@@ -1,3 +1,3 @@
 wandb:
-  # entity: your_entity
+  entity:  experiment
   project: marigold
