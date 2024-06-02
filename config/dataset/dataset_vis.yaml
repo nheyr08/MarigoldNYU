@@ -1,9 +1,10 @@
 dataset:
   vis:
-  - name: hypersim
-    disp_name: hypersim_vis
-    dir: hypersim/hypersim_processed_val.tar
-    filenames: data_split/hypersim/selected_vis_sample.txt
+  - name: nyu_v2
+    disp_name: nyu_train_small_100
+    dir: nyuv2/train
+    filenames: data_split/nyu/labeled/filename_list_train_small_100.txt
+    eigen_valid_mask: true
     resize_to_hw:
     - 480
     - 640
