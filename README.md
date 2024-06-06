@@ -2,7 +2,7 @@
 
 **CVPR 2024 (Oral, Best Paper Award Candidate)**
 
-This repository represents the official implementation of the paper titled "Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation".
+This repository represents the implementation of the paper titled "Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation" for fine-tuning on the NYU-V2 dataset.
 
 [![Website](doc/badges/badge-website.svg)](https://marigoldmonodepth.github.io)
 [![Paper](https://img.shields.io/badge/arXiv-PDF-b31b1b)](https://arxiv.org/abs/2312.02145)
